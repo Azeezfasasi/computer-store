@@ -380,7 +380,7 @@ input[type="submit"]:hover {
 
 /* =============== MEDIA QUERIES ======= */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
   .container {
     padding: 0 1rem;
   }
@@ -427,7 +427,7 @@ input[type="submit"]:hover {
     display: none !important;
   }
 }
-@media (min-width: 601px) {
+@media (min-width: 769px) {
   header {
     padding: 1rem 5rem;
   }
